@@ -1,16 +1,23 @@
 # Indice
-  [Projeto - Aprendendo a escrever um README](#projeto---aprendendo-a-escrever-um-readme)
-# Projeto - Aprendendo a escrever um README
+   [Projeto - Aprendendo a escrever um README](#projeto---aprendendo-a-escrever-um-readme)
    [Descrição](#descri%C3%A7%C3%A3o)
-## Descrição 
-  [Intrudução](#introdu%C3%A7%C3%A3o)
-## Introdução 
- [Funcionalidade](#funcionalidades)
-## Funcionalidades
-  [Tecnologias Utlizadas](#tecnologias-utilizadas)
-### Tecnologias Utilizadas
+   [Intrudução](#introdu%C3%A7%C3%A3o)
+   [Tecnologias Utlizadas](#tecnologias-utilizadas)
+   [Funcionalidade](#funcionalidades)
    [Fontes Consultadas](#fontes-consultadas)
-## Fontes Consultadas
    [Autores](#autores)
+
+# Projeto - Aprendendo a escrever um README
+   
+## Descrição 
+ 
+## Introdução 
+ 
+## Funcionalidades
+  
+### Tecnologias Utilizadas
+   
+## Fontes Consultadas
+   
 ## Autores
 
