@@ -13,14 +13,14 @@
    ![image info](img/tela.png)
    
 ## Descrição 
-    esse é umm projeto da página inicial de site
+    essa é a página inicial de um projeto de um portiforio pessoal
 ## Introdução 
-     
+    o objeivo desse site é criar um portiforio pessoal. 
 ## Funcionalidades
-  
+    ser pagina inicla de um site
 ### Tecnologias Utilizadas
-   
+     usei a ferramente do bootstrap de exemplos de páginas de html e css
 ## Fontes Consultadas
-   
+    bootstrap.com
 ## Autores
-
+    leonatdo de oliveira
