@@ -21,6 +21,6 @@
 ### Tecnologias Utilizadas
      usei a ferramente do bootstrap de exemplos de páginas de html e css
 ## Fontes Consultadas
-    bootstrap.com
+   https://getbootstrap.com/
 ## Autores
     leonatdo de oliveira
