@@ -13,9 +13,9 @@
    ![image info](img/tela.png)
    
 ## Descrição 
- 
+    esse é umm projeto da página inicial de site
 ## Introdução 
- 
+     
 ## Funcionalidades
   
 ### Tecnologias Utilizadas
