@@ -12,19 +12,24 @@
 ![image info](img/tela.png)
    
 ## Descrição 
-Esta é a página inicial do meu projeto de um portfólio pessoal.
+ESSE SITE ESTÁ SENDO DESENVOLVIDO PARA COMPARTILHAR MEU POTIFOLIO PESSOAL.
 
 ## Introdução 
 O objetivo deste site é criar um portfólio pessoal.
 
 ## Funcionalidades
-- Ser a página inicial de um site
+°PÁGINA INICIAL DE UM SITE
+°MOSTRAR MEU PORTIFÓLIO PESSOAL
 
 ### Tecnologias Utilizadas
-- Utilizei a ferramenta Bootstrap para exemplos de páginas em HTML e CSS.
+°HTML
+°CSS
+°BOOTSTRAP
 
 ## Fontes Consultadas
-[Get Bootstrap](https://getbootstrap.com/)
+[Bootstrap](https://getbootstrap.com/)
+[alura](https://www.alura.com.br/artigos/escrever-bom-readme)
+[répositorio github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
 
 ## Autores
 Leonardo de Oliveira
