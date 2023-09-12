@@ -1,26 +1,30 @@
-# Indice
-   [Projeto - Aprendendo a escrever um README](#projeto---aprendendo-a-escrever-um-readme)  
-   [Descrição](#descri%C3%A7%C3%A3o)  
-   [Intrudução](#introdu%C3%A7%C3%A3o)  
-   [Tecnologias Utlizadas](#tecnologias-utilizadas)  
-   [Funcionalidade](#funcionalidades)  
-   [Fontes Consultadas](#fontes-consultadas)  
-   [Autores](#autores)  
+# Índice
+   - [Projeto - Aprendendo a escrever um README](#projeto---aprendendo-a-escrever-um-readme)  
+   - [Descrição](#descri%C3%A7%C3%A3o)  
+   - [Introdução](#introdu%C3%A7%C3%A3o)  
+   - [Funcionalidades](#funcionalidades)  
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+   - [Fontes Consultadas](#fontes-consultadas)  
+   - [Autores](#autores)  
 
 # Projeto - Aprendendo a escrever um README
 
-
-   ![image info](img/tela.png)
+![image info](img/tela.png)
    
 ## Descrição 
-    essa é a página inicial de um projeto de um portiforio pessoal
+Esta é a página inicial do meu projeto de um portfólio pessoal.
+
 ## Introdução 
-    o objeivo desse site é criar um portiforio pessoal. 
+O objetivo deste site é criar um portfólio pessoal.
+
 ## Funcionalidades
-    ser pagina inicla de um site
+- Ser a página inicial de um site
+
 ### Tecnologias Utilizadas
-     usei a ferramente do bootstrap de exemplos de páginas de html e css
+- Utilizei a ferramenta Bootstrap para exemplos de páginas em HTML e CSS.
+
 ## Fontes Consultadas
-   https://getbootstrap.com/
+[Get Bootstrap](https://getbootstrap.com/)
+
 ## Autores
-    leonatdo de oliveira
+Leonardo de Oliveira
