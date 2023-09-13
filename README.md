@@ -13,7 +13,7 @@
    
 ## Descrição 
 esse site está sendo desenvolvido para compartilhar meu potifolio pessoal.
-![image info]()
+![image info](img/qrCODE.png)
 
 ## Introdução 
 O objetivo deste site é criar um portfólio pessoal.
