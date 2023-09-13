@@ -13,6 +13,7 @@
    
 ## Descrição 
 esse site está sendo desenvolvido para compartilhar meu potifolio pessoal.
+![image info]()
 
 ## Introdução 
 O objetivo deste site é criar um portfólio pessoal.
