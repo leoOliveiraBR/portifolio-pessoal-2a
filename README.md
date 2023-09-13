@@ -13,7 +13,7 @@
    
 ## Descrição 
 esse site está sendo desenvolvido para compartilhar meu potifolio pessoal.
-![image info](img/site.gif)
+<img src="img/site.gif" width="40%">
 
 ## Introdução 
 O objetivo deste site é criar um portfólio pessoal.
